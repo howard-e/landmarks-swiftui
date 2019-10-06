@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 extension AnyTransition {
     static var moveAndFade: AnyTransition {
         let insertion = AnyTransition.move(edge: .trailing)
